@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/018a0d17-ae0b-4357-958b-6108768563d8" alt="VibeCurb" width="100%" />
+  <img src="https://github.com/user-attachments/assets/b85e82b9-b9b2-4734-b32b-8028cc1c80b5" alt="VibeCurb" width="100%" />
 </div>
 
 <br/>
